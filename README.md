@@ -58,3 +58,5 @@ Ner tag for example `སྐྱེ་ཞིང་འཇིག་པའི་ཆ�
 |ས་        | O                   |
 |གསུངས     | O                   |
 |།         | O                   |
+
+`Note`: We have used [Pybo](https://github.com/esukhia/pybo) for work tenization and [lighttag](https://www.lighttag.io/) for text annotation.
