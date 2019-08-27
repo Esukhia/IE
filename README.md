@@ -22,8 +22,6 @@
 `Note`: F1-score is based on mertic used for CoNLL-2000. We have used [seqeval](https://github.com/chakki-works/seqeval) package for measuring the F1-score.
 
 ### Graphs
-- Test F1
-![test_f1](assets/imgs/test_f1_VS_duration.svg)
 - Training loss
 ![train_loss](assets/imgs/train_loss_VS_step.svg)
 - Validation loss
