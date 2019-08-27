@@ -10,7 +10,7 @@
 `Note`: We have used [Pybo](https://github.com/esukhia/pybo) for work tenization and [lighttag](https://www.lighttag.io/) for text annotation.
 
 # Results
-## Citation Detection Models
+## Citation Detection Models Comparison
 |Model                  |Test f1|
 |-----------------------|-------|
 |Memorization_v1        |2.2032	|
@@ -18,6 +18,8 @@
 |Bi-LSTM_CRF_v2         |31.92  |
 |Bi-LSTM_CRF_Word2Vec_v2|54.09	 |
 |Bi-LSTM_CRF_Word2Vec_v3|63.41  |
+
+`Note`: F1-score is based on mertic used for CoNLL-2000. We have used [seqeval](https://github.com/chakki-works/seqeval) package for measuring the F1-score.
 
 ### Graphs
 - Test F1
