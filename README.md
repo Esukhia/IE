@@ -1,5 +1,8 @@
 # NER
 
+[![DOI](https://zenodo.org/badge/198763950.svg)](https://zenodo.org/badge/latestdoi/198763950)
+
+
 ## About dataset
 Entities are (`ལུང་ཁུངས།`, `ལུང་དེའི་མཛད་པ་པོ།`, `ལུང་ཚིག་དངོས།`) and annotation scheme used for this task is `BIO`.
 
