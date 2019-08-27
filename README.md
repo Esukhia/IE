@@ -103,3 +103,6 @@ Word           ||True ||Pred
 ས་             : O     O
 ....
 ```
+`Note`: 
+- The outputs are from the best model (highest `test_f1` score)
+- In some cases model produced more accurate tags than the annotattor.
