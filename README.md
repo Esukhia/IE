@@ -20,11 +20,13 @@ Entities are (`ལུང་ཁུངས།`, `ལུང་དེའི་མཛ�
 ### Graphs
 - Training loss
 ![train_loss](assets/imgs/train_loss_VS_step.svg)
+  - Traiing loss is much higher for `Bi-LSTM_CRF_Word2Vec_v3` at the end
 - Validation loss
 ![valid_loss](assets/imgs/train_val_loss_VS_step.svg)
+  - validation loss is very stable for `Bi-LSTM_CRF_Word2Vec` models over the steps
 - Validation F1
 ![valid_f1](assets/imgs/train_valid_f1_VS_step.svg)
-
+  - validation f1 is very stable for `Bi-LSTM_CRF_Word2Vec` models over the steps
 # Prediction
 Output 1:
 ```
