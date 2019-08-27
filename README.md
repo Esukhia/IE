@@ -15,7 +15,9 @@ Entities are (`ལུང་ཁུངས།`, `ལུང་དེའི་མཛ�
 |Bi-LSTM_CRF_Word2Vec_v2|54.09	 |
 |Bi-LSTM_CRF_Word2Vec_v3|63.41  |
 
-`Note`: F1-score is based on mertic used for CoNLL-2000. We have used [seqeval](https://github.com/chakki-works/seqeval) package for measuring the F1-score.
+`Note`: 
+- F1-score is based on mertic used for CoNLL-2000. We have used [seqeval](https://github.com/chakki-works/seqeval) package for measuring the F1-score.
+- `v2` and `v3` model trained for `30` and `50` epochs respectively.
 
 ### Graphs
 - Training loss
