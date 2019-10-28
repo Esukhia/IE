@@ -2,4 +2,4 @@
 **/.ipynb_checkpoints
 POS_trie.pickled
 pybo.yaml
-
+.env/
