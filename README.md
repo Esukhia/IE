@@ -6,7 +6,7 @@
 ## About dataset
 Entities are (`ལུང་ཁུངས།`, `ལུང་དེའི་མཛད་པ་པོ།`, `ལུང་ཚིག་དངོས།`) and annotation scheme used for this task is `BIO`.
 
-`Note`: We have used [Pybo](https://github.com/esukhia/pybo) for work tenization and [lighttag](https://www.lighttag.io/) for text annotation.
+`Note`: We have used [Pybo](https://github.com/esukhia/pybo) for work tokenization and [lighttag](https://www.lighttag.io/) for text annotation.
 
 # Results
 ## Citation Detection Models Comparison
