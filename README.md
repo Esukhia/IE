@@ -1,4 +1,4 @@
-# Citation + Source Extraction
+# Citations + Sources Extraction
 
 [![DOI](https://zenodo.org/badge/198763950.svg)](https://zenodo.org/badge/latestdoi/198763950)
 
